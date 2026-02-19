@@ -57,10 +57,13 @@ I'm an ECE student with a deep passion for cloud technologies and artificial int
 
 | Badge | Certification | Status | Year |
 |:---:|---|:---:|:---:|
-| ☁️ | **AWS Certified Cloud Practitioner** | ✅ Completed | 2024 |
-| 🤖 | **Azure AI Fundamentals** | 🔄 In Progress | 2025 |
-| 💼 | **Salesforce Administration** | 📋 Planned | 2025 |
-| 📊 | **Google Cloud Associate** | 📋 Planned | 2025 |
+| ☁️ | **AWS Certified Cloud Practitioner** | ✅ Completed | 2026 |
+| 🤖 | **AWS Certified AI Practitioner** | ✅ Completed | 2025 |
+| 🤖 | **AWS Certified Machine learning Engineer-Associate** | ✅ Completed | 2026 |
+| 🤖 | **Azure AI Fundamentals** |✅ Completed  | 2025 |
+| 💼 | **Salesforce Agent force speclist** | ✅ Completed | 2025 |
+| 💼 | **Snowpro Associate:Paltform** | ✅ Completed | 2025 |
+
 
 </div>
 
