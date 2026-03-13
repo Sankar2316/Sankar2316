@@ -60,6 +60,7 @@ I'm an ECE student with a deep passion for cloud technologies and artificial int
 | ☁️ | **AWS Certified Cloud Practitioner** | ✅ Completed | 2026 |
 | 🤖 | **AWS Certified AI Practitioner** | ✅ Completed | 2025 |
 | 🤖 | **AWS Certified Machine learning Engineer-Associate** | ✅ Completed | 2026 |
+| 🤖 | **AWS Certified Solutions Architect-Associate** | ✅ Completed | 2026 |
 | 🤖 | **Azure AI Fundamentals** |✅ Completed  | 2025 |
 | 💼 | **Salesforce Agent force speclist** | ✅ Completed | 2025 |
 | 💼 | **Snowpro Associate:Paltform** | ✅ Completed | 2025 |
