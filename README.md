@@ -1,332 +1,138 @@
-# 👋 Sankar S - Cloud & AI Engineer in the Making
+<h1 align="left">Hi 👋, I'm Sankar S☁️</h1>
+<h2 align="left">
+An ECE student and <font color="#00CFFF"><b>☁️ Cloud & AI Engineer in the Making</b></font> — passionate about building intelligent, scalable solutions on the cloud.</h2>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00CFFF&center=false&vCenter=true&width=600&lines=Cloud+%26+AI+Engineer+in+the+Making;AWS+%7C+Azure+%7C+Machine+Learning;Always+Learning+%E2%80%A2+Always+Building+%E2%80%A2+Always+Growing)
+
+---
+
+### 🎯 About Me
+
+<br clear="both">
+<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+
+- 🎓 **Electronics & Communication Engineering** Student
+- ☁️ Focused on **Cloud Computing**, **AI & ML**, and **DevOps**
+- 🚀 Building scalable, intelligent, and impactful solutions
+- 🌱 Currently exploring **AWS AI Services**, **CI/CD**, and **Serverless Architecture**
+- 💡 Believer in continuous learning and hands-on experience
+- 📫 **sankarsaravanakumar2316@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════════════╗
-║                                                                           ║
-║    ███████╗ █████╗ ███╗   ██╗██╗  ██╗ █████╗ ██████╗                    ║
-║    ██╔════╝██╔══██╗████╗  ██║██║ ██╔╝██╔══██╗██╔══██╗                   ║
-║    ███████╗███████║██╔██╗ ██║█████╔╝ ███████║██████╔╝                   ║
-║    ╚════██║██╔══██║██║╚██╗██║██╔═██╗ ██╔══██║██╔══██╗                   ║
-║    ███████║██║  ██║██║ ╚████║██║  ██╗██║  ██║██║  ██║                   ║
-║    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝                   ║
-║                                                                           ║
-║              Aspiring Cloud & AI Engineer | ML Enthusiast                ║
-║                                                                           ║
-╚═══════════════════════════════════════════════════════════════════════════╝
-```
+#### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,linux&theme=dark" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Cloud+%26+AI+Engineer;Machine+Learning+Enthusiast;Always+Learning%2C+Always+Building)
+#### 👨‍💻 Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js&theme=dark" />
+
+#### 🤖 ML & Data
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,anaconda&theme=dark" />
+
+#### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=vscode,figma,github&theme=dark" />
 
 </div>
 
 ---
 
-## 🎯 About Me
+### 🏆 Certifications
 
 <div align="center">
 
-| | |
-|---|---|
-| 🎓 **Education** | Electronics & Communication Engineering Student |
-| 🌟 **Focus** | Cloud Computing, AI & Machine Learning, DevOps |
-| 🚀 **Goal** | Building scalable, intelligent, and impactful solutions |
-| 💭 **Mindset** | Problem solver with a passion for emerging technologies |
-| 🌍 **Vision** | Leveraging cloud & AI to transform real-world challenges |
-
-</div>
-
-I'm an ECE student with a deep passion for cloud technologies and artificial intelligence. My journey is focused on mastering cloud platforms, building intelligent ML models, and creating scalable solutions that solve real-world problems. I believe in continuous learning and hands-on project experience.
-
----
-
-## 🏆 Certifications & Achievements
-
-<div align="center">
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                  PROFESSIONAL CREDENTIALS                      ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
-| Badge | Certification | Status | Year |
-|:---:|---|:---:|:---:|
-| ☁️ | **AWS Certified Cloud Practitioner** | ✅ Completed | 2026 |
-| 🤖 | **AWS Certified AI Practitioner** | ✅ Completed | 2025 |
-| 🤖 | **AWS Certified Machine learning Engineer-Associate** | ✅ Completed | 2026 |
-| 🤖 | **AWS Certified Solutions Architect-Associate** | ✅ Completed | 2026 |
-| 🤖 | **Azure AI Fundamentals** |✅ Completed  | 2025 |
-| 💼 | **Salesforce Agent force speclist** | ✅ Completed | 2025 |
-| 💼 | **Snowpro Associate:Paltform** | ✅ Completed | 2025 |
-
-
-</div>
-
----
-
-## 💻 Technical Skills Matrix
-
-<div align="center">
-
-### ☁️ Cloud Platforms
-```
-AWS          ████████░░ 85%
-Azure        ██████░░░░ 60%
-Google Cloud ████░░░░░░ 40%
-```
-
-### 🤖 AI & Machine Learning
-```
-Python/ML         ████████░░ 80%
-Model Development ███████░░░ 70%
-Data Analytics    ███████░░░ 70%
-Deep Learning     ██████░░░░ 60%
-```
-
-### 👨‍💻 Programming Languages
-```
-Python       ████████░░ 85%
-SQL          ███████░░░ 75%
-C / C++      ██████░░░░ 65%
-JavaScript   ██████░░░░ 60%
-```
-
-### 🛠️ Tools & Technologies
-```
-Git/GitHub   ████████░░ 85%
-Jupyter      ███████░░░ 75%
-VS Code      ████████░░ 85%
-Docker       ██████░░░░ 65%
-Linux        ███████░░░ 70%
-```
+<table border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2026-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2026-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2026-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0A1628?style=for-the-badge&logo=microsoft-azure&logoColor=00CFFF&labelColor=0A1628"/>
+      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-0A1628?style=for-the-badge&logo=salesforce&logoColor=00CFFF&labelColor=0A1628"/>
+      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <img src="https://img.shields.io/badge/Snowflake-SnowPro%20Associate%20Platform-0A1628?style=for-the-badge&logo=snowflake&logoColor=29B5E8&labelColor=0A1628"/>
+      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🚀 Technology Stack
+### 📊 GitHub Stats
 
 <div align="center">
 
-### 🖥️ Backend & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Sankar's Stats](https://github-readme-stats.vercel.app/api?username=Sankar2316&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00CFFF&icon_color=00CFFF&text_color=c9d1d9&border_radius=10)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Sankar's Streak](https://streak-stats.demolab.com?user=Sankar2316&theme=tokyonight&hide_border=true&background=0d1117&ring=00CFFF&fire=0080FF&currStreakLabel=00CFFF&border_radius=10)
 
-### 🤖 ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🎨 Development Tools
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Sankar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankar2316&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=00CFFF&text_color=c9d1d9&border_radius=10)
 
 </div>
 
 ---
 
-## 📈 Learning Roadmap
+### 📈 Contribution Activity
 
 <div align="center">
-
-### Current Focus (Q1 2025)
-```
-┌─────────────────────────────────────────────────────┐
-│  🎯 Cloud AI Solutions                              │
-│  → Implementing AI models on AWS/Azure               │
-│  → Real-time ML inference with Lambda/Functions     │
-│  → Serverless machine learning architectures        │
-└─────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────┐
-│  ⚙️  DevOps & CI/CD Fundamentals                    │
-│  → GitHub Actions & Jenkins pipelines               │
-│  → Infrastructure as Code (Terraform/CloudFormation)│
-│  → Container orchestration with Kubernetes basics   │
-└─────────────────────────────────────────────────────┘
-
-┌─────────────────────────────────────────────────────┐
-│  🚀 Real-World Cloud Deployments                    │
-│  → Building production-ready applications           │
-│  → Scalability & cost optimization                  │
-│  → Monitoring & logging best practices              │
-└─────────────────────────────────────────────────────┘
-```
-
-### Next Phase (Q2-Q3 2025)
-- 🔐 Cloud Security & Compliance
-- 📊 Advanced Data Analytics & BigData
-- 🌐 Microservices Architecture
-- 🤖 Advanced Deep Learning Specialization
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankar2316&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00CFFF&line=0080FF&point=00CFFF" width="100%"/>
 </div>
 
 ---
 
-## 📂 Featured Projects
+### 📫 Let's Connect
 
 <div align="center">
 
-### 🔹 In Development 🚀
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    PROJECT SHOWCASE                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                              │
-│ 🤖 AI/ML Projects                                          │
-│    → Building intelligent models with real-world datasets   │
-│    → Computer vision & NLP applications                    │
-│    → Model optimization & deployment                       │
-│                                                              │
-│ ☁️ Cloud Deployment Projects                              │
-│    → Multi-tier architecture on AWS/Azure                  │
-│    → Serverless applications                               │
-│    → Cloud migration strategies                            │
-│                                                              │
-│ 🔧 Automation Scripts                                      │
-│    → Infrastructure automation with Python                 │
-│    → Data pipeline orchestration                           │
-│    → DevOps tooling and utilities                          │
-│                                                              │
-│ 📊 Data Analytics Dashboards                              │
-│    → Interactive visualizations                            │
-│    → Real-time data processing                            │
-│    → Business intelligence solutions                       │
-│                                                              │
-└─────────────────────────────────────────────────────────────┘
-```
-
-**📚 Projects Repository:** Coming Soon! Stay tuned for exciting implementations.
-
-</div>
-
----
-
-## 🌱 Career Trajectory
-
-<div align="center">
-
-```
-Current Position          Next Goal              Long-term Vision
-         ↓                    ↓                        ↓
-    ┌─────────┐          ┌──────────┐           ┌──────────────┐
-    │ Student │──→──────→│  Junior  │──→───────→│   Senior     │
-    │ Learning│          │ Engineer │           │   Architect  │
-    └─────────┘          └──────────┘           └──────────────┘
-         ☁️🤖              💼🚀                    🎯✨
-
-Target: Cloud & AI Engineer
-Building intelligent, scalable solutions that transform industries
-```
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sankar2316&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&icon_color=00D9FF&border_color=30363D&border_radius=10)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sankar2316&theme=tokyonight&border_radius=10&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankar2316&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&border_color=30363D&border_radius=10)
-
-</div>
-
----
-
-## 🌟 Key Strengths
-
-<div align="center">
-
-| | | |
-|:---:|:---:|:---:|
-| 🧠 | **Problem Solver** | Breaking down complex challenges into manageable solutions |
-| 📚 | **Quick Learner** | Rapidly acquiring new skills in cloud & AI domains |
-| 🤝 | **Team Collaborator** | Effective communication & collaborative development |
-| 💡 | **Innovative Thinker** | Creative approaches to technology challenges |
-| 🎯 | **Goal Oriented** | Focused on measurable progress and impact |
-| 🔄 | **Continuous Improver** | Always refining skills and seeking feedback |
-
-</div>
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-
-### 🔗 Find Me Online
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sankar-snsinstitutions)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankarsaravanakumar2316@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sankar2316)
-
-### 💬 How to Reach Me
-- **Email:** sankarsaravanakumar2316@gmail.com
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/s-sankar-snsinstitutions)
-- **GitHub:** [@Sankar2316](https://github.com/Sankar2316)
-
-</div>
-
----
-
-## 🎓 Philosophy & Values
-
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   "The only way to do great work is to love what you do"     ║
-║                                                               ║
-║   Continuous learning, practical application, and making     ║
-║   a positive impact through technology is my driving force.  ║
-║                                                               ║
-║           Always Learning • Always Building • Always Growing  ║
-║                                                               ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 📈 Development Highlights
-
-<div align="center">
-
-### What I'm Building Towards
-
-```
-┌────────────────┐      ┌────────────────┐      ┌────────────────┐
-│   AWS Cloud    │  +   │  AI/ML Models  │  =   │  Intelligent   │
-│   Platforms    │      │  Development   │      │   Solutions    │
-└────────────────┘      └────────────────┘      └────────────────┘
-         ↓                       ↓                       ↓
-   Scalability          Advanced Analytics         Real-world Impact
-     Security            Automation                Problem Solving
-   Cost Efficiency      Data Intelligence         Innovation
-```
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://www.linkedin.com/in/s-sankar-snsinstitutions">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<br><sub>Professional Network</sub>
+</td>
+<td align="center" width="33%">
+<a href="mailto:sankarsaravanakumar2316@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<br><sub>Business Inquiries</sub>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/Sankar2316">
+<img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=00CFFF"/>
+</a>
+<br><sub>Open Source</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -334,36 +140,12 @@ Building intelligent, scalable solutions that transform industries
 
 <div align="center">
 
-### ✨ Thank You for Visiting My Profile! ✨
+### 💡 *"The only way to do great work is to love what you do."*
 
-![Welcome](https://img.shields.io/badge/Thanks%20for%20Visiting-2B2D42?style=flat-square&labelColor=00D9FF)
-![Profile Views](https://komarev.com/ghpvc/?username=Sankar2316&color=00D9FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Sankar2316&color=00CFFF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/Sankar2316?style=for-the-badge&color=00CFFF&labelColor=0d1117&label=FOLLOWERS)
+![GitHub Stars](https://img.shields.io/github/stars/Sankar2316?style=for-the-badge&color=00CFFF&labelColor=0d1117&label=STARS)
 
-**Feel free to explore my repositories, reach out for collaborations, or connect to discuss cloud & AI technologies!**
-
-```
-Made with ❤️ by Sankar S
-Last Updated: February 2025
-```
-
----
-
-### 🚀 Let's Build Something Amazing Together!
+<sub>⭐️ From [Sankar2316](https://github.com/Sankar2316) with ☁️</sub>
 
 </div>
-
-
-<!--
-**Sankar2316/Sankar2316** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
