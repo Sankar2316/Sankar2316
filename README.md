@@ -47,25 +47,35 @@ An ECE student and <font color="#00CFFF"><b>☁️ Cloud & AI Engineer in the Ma
 <table border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/aws-certified-cloud-practitioner.png" target="_blank">
+        <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      </a>
       <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2026-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/AWS%20Certified%20AI%20practitioner%20Badge%20.png" target="_blank">
+        <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      </a>
       <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/aws-certified-machine-learning-engineer-associate.png" target="_blank">
+        <img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      </a>
       <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2026-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/aws-certified-solutions-architect-associate.png" target="_blank">
+        <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
+      </a>
       <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2026-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0A1628?style=for-the-badge&logo=microsoft-azure&logoColor=00CFFF&labelColor=0A1628"/>
+      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/Badge.jpg" target="_blank">
+        <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0A1628?style=for-the-badge&logo=microsoft-azure&logoColor=00CFFF&labelColor=0A1628"/>
+      </a>
       <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
     </td>
     <td align="center">
@@ -75,12 +85,15 @@ An ECE student and <font color="#00CFFF"><b>☁️ Cloud & AI Engineer in the Ma
   </tr>
   <tr>
     <td align="center" colspan="3">
-      <img src="https://img.shields.io/badge/Snowflake-SnowPro%20Associate%20Platform-0A1628?style=for-the-badge&logo=snowflake&logoColor=29B5E8&labelColor=0A1628"/>
+      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/SNOWPRO%20ASSOCIATE_%20PLATFORM%20Badge%20.png" target="_blank">
+        <img src="https://img.shields.io/badge/Snowflake-SnowPro%20Associate%20Platform-0A1628?style=for-the-badge&logo=snowflake&logoColor=29B5E8&labelColor=0A1628"/>
+      </a>
       <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
     </td>
   </tr>
 </table>
 
+</div>
 </div>
 
 ---
