@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Sankar S☁️</h1>
 <h2 align="left">
-An ECE student and <font color="#00CFFF"><b>☁️ Cloud & AI Engineer in the Making</b></font> — passionate about building intelligent, scalable solutions on the cloud.</h2>
+An ECE student and <font color="#00CFFF"><b>☁️ Cloud & AI Engineer in the Making</b></font> passionate about building intelligent, scalable solutions on the cloud.</h2>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00CFFF&center=false&vCenter=true&width=600&lines=Cloud+%26+AI+Engineer+in+the+Making;AWS+%7C+Azure+%7C+Machine+Learning;Always+Learning+%E2%80%A2+Always+Building+%E2%80%A2+Always+Growing)
 
