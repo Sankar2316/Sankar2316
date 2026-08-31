@@ -38,9 +38,9 @@ current_role: Databricks Student Fellow | Student Placement Coordinator
 tagline: Crafting Intelligent Cloud Solutions ☁️
 
 currently_building:
-  - 🖥️ Remote Desktop App (WebRTC + Electron.js)
-  - 🤖 AI DSA Problem Recommender
+  - 🤖 AI DSA Problem Recommender (AWS Bedrock + Lambda)
   - 🎯 SOP Proctored Exam Portal
+  - 📰 Daily Tech Digest Agent (Serverless)
 
 exploring:
   - Agentic AI & LLM Orchestration
@@ -216,12 +216,13 @@ fun_fact: "I organized AWS Certification sessions for 100+ students 🎓"
 
 ## 🚀 Featured Projects
 
-| ### 🖥️ [Remote Desktop App](https://github.com/Sankar2316) Phone/browser controls PC in real-time via WebRTC `Electron.js` `WebRTC` `React` `Node.js` | ### 🤖 [AI DSA Recommender](https://github.com/Sankar2316) AI-powered DSA practice engine with personalized recommendations `Python` `ML` `LangChain` |
+| ### 🤖 [AI DSA Recommender](https://github.com/Sankar2316) AI-powered DSA practice engine — identifies weak topics & recommends daily problems `Amazon Bedrock` `Lambda` `DynamoDB` `S3` | ### 📰 [Daily Tech Digest Agent](https://github.com/Sankar2316/daily-tech-digest-agent) Always-on serverless agent — fetches RSS, summarizes with AI & emails daily digest `EventBridge` `Lambda` `Bedrock` `SES` |
 | --- | --- |
-| ### 🎯 [SOP Proctored Exam Portal](https://github.com/Sankar2316) Secure online proctoring with AI monitoring `Node.js` `React` `AWS` | ### 🧠 [AI Resume Analyzer](https://github.com/Sankar2316) Smart resume parsing & scoring with AI `Python` `NLP` `AWS Textract` |
-| ### 📊 [SmartPriority](https://github.com/Sankar2316/smart-priority) Intelligent task prioritization system `Python` `AI` `Cloud` | ### 💰 [Expense Sorter](https://github.com/Sankar2316) Automated expense categorization & tracking `Python` `ML` |
-| ### 🔗 [URL Shortener](https://github.com/Sankar2316) Custom URL shortening with click analytics `React` `Node.js` `Express` | ### 🌌 [NASA APOD MCP Server](https://github.com/Sankar2316) MCP server for NASA's Astronomy Picture of the Day `TypeScript` `MCP SDK` |
-| ### 🎮 [Trivia Quiz MCP Server](https://github.com/Sankar2316/trivia-mcp-server) MCP server — Open Trivia DB — 4000+ questions `TypeScript` `MCP SDK` | ### 🏠 [Landing Page Generator](https://github.com/Sankar2316) AI-powered landing page creation tool `JavaScript` `AI` |
+| ### 🎯 [SOP Proctored Exam Portal](https://github.com/Sankar2316) Secure online proctoring platform with AI-powered monitoring `Node.js` `React` `AWS` | ### 🧠 [AI Resume Analyzer](https://github.com/Sankar2316) Smart resume parsing & scoring with AI `Python` `NLP` `AWS Textract` |
+| ### 📊 [SmartPriority](https://github.com/Sankar2316/smart-priority) AI-powered task prioritization with cloud-native architecture `AWS Amplify` `Lambda` `Bedrock Nova Lite` | ### 💰 [Expense Sorter](https://github.com/Sankar2316) Automated receipt processing & expense categorization `AWS Textract` `Bedrock` `S3` |
+| ### 🔗 [URL Shortener](https://github.com/Sankar2316) Custom URL shortening with click analytics dashboard `React` `Node.js` `Express` | ### 🌌 [NASA APOD MCP Server](https://github.com/Sankar2316) MCP server for NASA's Astronomy Picture of the Day `TypeScript` `MCP SDK` |
+| ### 🎮 [Trivia Quiz MCP Server](https://github.com/Sankar2316/trivia-mcp-server) MCP server — Open Trivia DB — 4000+ questions `TypeScript` `MCP SDK` | ### 🐾 [Pokémon MCP Server](https://github.com/Sankar2316) MCP server connecting to PokéAPI — 6 tools for Pokémon data `TypeScript` `MCP SDK` |
+| ### 📡 [WiFi People Monitoring](https://github.com/Sankar2316) WiFi-based indoor location tracking & people monitoring system `Python` `Signal Processing` `IoT` | ### 🏠 [Landing Page Generator](https://github.com/Sankar2316) AI-powered landing page creation from one-line descriptions `JavaScript` `AI` |
 
 ---
 
