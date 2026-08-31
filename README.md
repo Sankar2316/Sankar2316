@@ -1,164 +1,325 @@
-<h1 align="left">Hi 👋, I'm Sankar S☁️</h1>
-<h2 align="left">
-An ECE student and <font color="#00CFFF"><b>☁️ Cloud & AI Engineer in the Making</b></font> passionate about building intelligent, scalable solutions on the cloud.</h2>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00CFFF&center=false&vCenter=true&width=600&lines=Cloud+%26+AI+Engineer+in+the+Making;AWS+%7C+Azure+%7C+Machine+Learning;Always+Learning+%E2%80%A2+Always+Building+%E2%80%A2+Always+Growing)
 
----
+![](https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:06B6D4&height=220&section=header&text=Sankar%20S&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=Software%20%E2%80%A2%20AI%20%E2%80%A2%20Cloud%20%E2%80%A2%20DevOps&descSize=18&descAlignY=55&animation=fadeIn)
 
-### 🎯 About Me
 
-<br clear="both">
-<img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-- 🎓 **Electronics & Communication Engineering** Student
-- ☁️ Focused on **Cloud Computing**, **AI & ML**, and **DevOps**
-- 🚀 Building scalable, intelligent, and impactful solutions
-- 🌱 Currently exploring **AWS AI Services**, **CI/CD**, and **Serverless Architecture**
-- 💡 Believer in continuous learning and hands-on experience
-- 📫 **sankarsaravanakumar2316@gmail.com**
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=8B5CF6%C2%A2er=true&vCenter=true&multiline=true&repeat=true&width=650&height=70&lines=%E2%98%81%EF%B8%8F+Cloud+%26+AI+Engineer+in+the+Making;%F0%9F%A4%96+Building+Intelligent+Scalable+Solutions;%F0%9F%9A%80+5x+AWS+%7C+3x+Microsoft+%7C+15%2B+Certifications)
 
----
 
-### 🛠️ Tech Stack
 
-<div align="center">
+![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
-#### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,linux&theme=dark" />
 
-#### 👨‍💻 Languages
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js&theme=dark" />
 
-#### 🤖 ML & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,anaconda&theme=dark" />
+![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
 
-#### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=vscode,figma,github&theme=dark" />
 
-</div>
+
+![](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+
+
+
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sankar2316&label=Profile%20Views&color=8B5CF6&style=for-the-badge)
 
 ---
 
-### 🏆 Certifications
+## 🧑‍💻 About Me
 
-<div align="center">
+```yaml
+name: Sankar Saravanakumar
+location: Salem, Tamil Nadu 📍
+education: B.E. ECE (2023–2027) @ SNS College of Engineering, Coimbatore
+current_role: Databricks Student Fellow | Student Placement Coordinator
+tagline: Crafting Intelligent Cloud Solutions ☁️
 
-<table border="0" cellspacing="0" cellpadding="6">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/aws-certified-cloud-practitioner.png" target="_blank">
-        <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
-      </a>
-      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2026-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/AWS%20Certified%20AI%20practitioner%20Badge%20.png" target="_blank">
-        <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
-      </a>
-      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/aws-certified-machine-learning-engineer-associate.png" target="_blank">
-        <img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
-      </a>
-      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2026-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/aws-certified-solutions-architect-associate.png" target="_blank">
-        <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-0A1628?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=0A1628"/>
-      </a>
-      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2026-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/Badge.jpg" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft-Azure%20AI%20Fundamentals-0A1628?style=for-the-badge&logo=microsoft-azure&logoColor=00CFFF&labelColor=0A1628"/>
-      </a>
-      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Salesforce-Agentforce%20Specialist-0A1628?style=for-the-badge&logo=salesforce&logoColor=00CFFF&labelColor=0A1628"/>
-      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="3">
-      <a href="https://github.com/Sankar2316/Sankar2316/blob/main/certification%20badge/SNOWPRO%20ASSOCIATE_%20PLATFORM%20Badge%20.png" target="_blank">
-        <img src="https://img.shields.io/badge/Snowflake-SnowPro%20Associate%20Platform-0A1628?style=for-the-badge&logo=snowflake&logoColor=29B5E8&labelColor=0A1628"/>
-      </a>
-      <br/><sub><img src="https://img.shields.io/badge/✅%20Completed-2025-00CFFF?style=flat-square&labelColor=0d1117"/></sub>
-    </td>
-  </tr>
-</table>
+currently_building:
+  - 🖥️ Remote Desktop App (WebRTC + Electron.js)
+  - 🤖 AI DSA Problem Recommender
+  - 🎯 SOP Proctored Exam Portal
 
-</div>
-</div>
+exploring:
+  - Agentic AI & LLM Orchestration
+  - Serverless Architectures on AWS
+  - Cloud-Native DevOps Pipelines
+  - MLOps & Model Deployment
+
+fun_fact: "I organized AWS Certification sessions for 100+ students 🎓"
+
+```
 
 ---
 
-### 📊 GitHub Stats
+## 🏆 Certifications Wall
 
-<div align="center">
+### ☁️ Amazon Web Services (5x Certified)
 
-![Sankar's Stats](https://github-readme-stats.vercel.app/api?username=Sankar2316&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00CFFF&icon_color=00CFFF&text_color=c9d1d9&border_radius=10)
 
-![Sankar's Streak](https://streak-stats.demolab.com?user=Sankar2316&theme=tokyonight&hide_border=true&background=0d1117&ring=00CFFF&fire=0080FF&currStreakLabel=00CFFF&border_radius=10)
 
-![Sankar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankar2316&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=00CFFF&text_color=c9d1d9&border_radius=10)
+![Solutions Architect Associate](https://images.credly.com/size/140x140/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
-</div>
+  
+
+
+
+![ML Engineer Associate](https://images.credly.com/size/140x140/images/1a634b4e-01d0-4e1d-b06c-ddfbe16699e2/image.png)
+
+  
+
+
+
+![SysOps Admin Associate](https://images.credly.com/size/140x140/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)
+
+  
+
+
+
+![AI Practitioner](https://images.credly.com/size/140x140/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png)
+
+  
+
+
+
+![Cloud Practitioner](https://images.credly.com/size/140x140/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)
+
+**SAA-C03**           **MLA-C01**           **SOA-C02**           **AIF-C01**           **CLF-C02** ### 🔷 Microsoft  |  🟢 Salesforce  |  ❄️ SnowPro  |  🔴 Oracle  |  🎩 RedHat AI
+
+
+
+![](https://img.shields.io/badge/Azure_AI--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+
+![](https://img.shields.io/badge/Azure_AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+
+![](https://img.shields.io/badge/Azure_SC--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+
+
+![](https://img.shields.io/badge/Salesforce_AI_Associate-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+
+
+![](https://img.shields.io/badge/SnowPro_Core-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+
+
+![](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+
+
+![](https://img.shields.io/badge/RedHat_AI-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+
+### 🏅 Award
+
+
+
+![](https://img.shields.io/badge/%F0%9F%8F%86_Global_Certification_Award-2025--2026-FFD700?style=for-the-badge)
 
 ---
 
-### 📈 Contribution Activity
+## 🛠️ Tech Arsenal
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sankar2316&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00CFFF&line=0080FF&point=00CFFF" width="100%"/>
-</div>
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+ ### 🤖 AI / ML / Data
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+ ### 💻 Software Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+ ### 🗄️ Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white)
+
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
-### 📫 Let's Connect
+## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-<a href="https://www.linkedin.com/in/s-sankar-snsinstitutions">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<br><sub>Professional Network</sub>
-</td>
-<td align="center" width="33%">
-<a href="mailto:sankarsaravanakumar2316@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<br><sub>Business Inquiries</sub>
-</td>
-<td align="center" width="33%">
-<a href="https://github.com/Sankar2316">
-<img src="https://img.shields.io/badge/GitHub-Follow-0d1117?style=for-the-badge&logo=github&logoColor=00CFFF"/>
-</a>
-<br><sub>Open Source</sub>
-</td>
-</tr>
-</table>
-
-</div>
+| ### 🖥️ [Remote Desktop App](https://github.com/Sankar2316) Phone/browser controls PC in real-time via WebRTC `Electron.js` `WebRTC` `React` `Node.js` | ### 🤖 [AI DSA Recommender](https://github.com/Sankar2316) AI-powered DSA practice engine with personalized recommendations `Python` `ML` `LangChain` |
+| --- | --- |
+| ### 🎯 [SOP Proctored Exam Portal](https://github.com/Sankar2316) Secure online proctoring with AI monitoring `Node.js` `React` `AWS` | ### 🧠 [AI Resume Analyzer](https://github.com/Sankar2316) Smart resume parsing & scoring with AI `Python` `NLP` `AWS Textract` |
+| ### 📊 [SmartPriority](https://github.com/Sankar2316/smart-priority) Intelligent task prioritization system `Python` `AI` `Cloud` | ### 💰 [Expense Sorter](https://github.com/Sankar2316) Automated expense categorization & tracking `Python` `ML` |
+| ### 🔗 [URL Shortener](https://github.com/Sankar2316) Custom URL shortening with click analytics `React` `Node.js` `Express` | ### 🌌 [NASA APOD MCP Server](https://github.com/Sankar2316) MCP server for NASA's Astronomy Picture of the Day `TypeScript` `MCP SDK` |
+| ### 🎮 [Trivia Quiz MCP Server](https://github.com/Sankar2316/trivia-mcp-server) MCP server — Open Trivia DB — 4000+ questions `TypeScript` `MCP SDK` | ### 🏠 [Landing Page Generator](https://github.com/Sankar2316) AI-powered landing page creation tool `JavaScript` `AI` |
 
 ---
 
-<div align="center">
+## 📊 GitHub Analytics
 
-### 💡 *"The only way to do great work is to love what you do."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Sankar2316&color=00CFFF&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub Followers](https://img.shields.io/github/followers/Sankar2316?style=for-the-badge&color=00CFFF&labelColor=0d1117&label=FOLLOWERS)
-![GitHub Stars](https://img.shields.io/github/stars/Sankar2316?style=for-the-badge&color=00CFFF&labelColor=0d1117&label=STARS)
 
-<sub>⭐️ From [Sankar2316](https://github.com/Sankar2316) with ☁️</sub>
+![](https://github-readme-stats.vercel.app/api?username=Sankar2316&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=c9d1d9&ring_color=3B82F6)
 
-</div>
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sankar2316&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=c9d1d9)
+
+
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sankar2316&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=3B82F6&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555)
+
+
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Sankar2316&bg_color=0D1117&color=8B5CF6&line=06B6D4&point=3B82F6&area=true&area_color=8B5CF6&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+
+
+![](https://github-profile-trophy.vercel.app/?username=Sankar2316&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10)
+
+---
+
+## 🐍 Contribution Snake
+
+
+
+![github-snake](https://raw.githubusercontent.com/Sankar2316/Sankar2316/output/github-snake-dark.svg)
+
+---
+
+## 🌐 Community & Leadership
+
+| Role | Organization | Period |
+| --- | --- | --- |
+| 🎓 **Student Fellow** | Databricks | Aug 2026 – Present |
+| 🛠️ **Organizing Team Member** | AWS User Group Madurai | Active |
+| 📋 **Student Placement Coordinator** | SNS College of Engineering | Active |
+| 🏆 **AWS AI & ML Scholars Program** | Amazon Web Services | Completed |
+| 🎤 **AWS Certification Awareness** | Organized for 100+ Students | Completed |
+| 🏅 **AWS Summit & Community Day** | Bengaluru | Attended |
+
+---
+
+## 💼 Experience Timeline
+
+```mermaid
+gantt
+    title Career Journey
+    dateFormat  YYYY-MM
+    section Internships
+    Embedded Systems (Emglitz)        :done, 2024-07, 2024-08
+    ML Intern (Appin Technologies)    :done, 2025-06, 2025-07
+    Full Stack Development            :done, 2025-09, 2025-12
+    ServiceNow Virtual Intern         :done, 2026-02, 2026-04
+    Transformer Mfg (Magnetic Core)   :done, 2026-06, 2026-07
+    section Current
+    Databricks Student Fellow         :active, 2026-08, 2027-05
+
+```
+
+---
+
+## 📫 Let's Connect & Build Together
+
+
+
+![](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+ 
+
+
+
+![](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+ 
+
+
+
+![](https://img.shields.io/badge/Portfolio-View_My_Work-8B5CF6?style=for-the-badge&logo=firefoxbrowser&logoColor=white)
+
+ 
+
+
+
+![](https://img.shields.io/badge/Phone-+91_9363642316-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+### 💡 *"The only way to do great work is to love what you do."* — Steve Jobs ⭐ **If you found my profile interesting, consider giving a star to my repos!** ⭐
+
+
+
+![](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:8B5CF6,100:3B82F6&height=120&section=footer)
+
