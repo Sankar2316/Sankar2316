@@ -141,30 +141,25 @@ timeline
 ---
 
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/api?username=Sankar2316&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=06B6D4" />
-  <source media="(prefers-color-scheme: light)" srcset="https://YOUR-INSTANCE.vercel.app/api?username=Sankar2316&show_icons=true&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=06B6D4" />
-  <img alt="GitHub stats" src="https://YOUR-INSTANCE.vercel.app/api?username=Sankar2316&show_icons=true&hide_border=true&hide_rank=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=06B6D4" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sankar2316.vercel.app/api?username=Sankar2316&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=06B6D4" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sankar2316.vercel.app/api?username=Sankar2316&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=06B6D4" />
+  <img alt="GitHub stats" src="https://github-readme-stats-sankar2316.vercel.app/api?username=Sankar2316&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=06B6D4" height="170" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Sankar2316&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=8B5CF6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Sankar2316&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6" />
-  <img alt="Top languages" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Sankar2316&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6" height="170" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sankar2316.vercel.app/api/top-langs/?username=Sankar2316&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=8B5CF6" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sankar2316.vercel.app/api/top-langs/?username=Sankar2316&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6" />
+  <img alt="Top languages" src="https://github-readme-stats-sankar2316.vercel.app/api/top-langs/?username=Sankar2316&layout=compact&langs_count=8&hide_border=true&title_color=8B5CF6" height="170" />
 </picture>
-
 <br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Sankar2316&theme=tokyonight&hide_border=true" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=Sankar2316&hide_border=true" />
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Sankar2316&hide_border=true" />
 </picture>
-
 </div>
-
 ---
 
 ### 💬 Let's build something together
