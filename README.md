@@ -9,7 +9,7 @@
 <img src="https://wsrv.nl/?url=github.com/Sankar2316.png&w=220&h=220&fit=cover&mask=circle" width="180" alt="Sankar Saravanakumar" />
 
 ### Sankar
-**Software Engineer · Cloud & AI**
+**AWS SBGL @SNSCE | Databricks Student Fellow @Databricks | SDE | Cloud & DevOps | AI Developer |  Ex Intern @ServiceNow**
 
 📍 Tamil Nadu, India
 
