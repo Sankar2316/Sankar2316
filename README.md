@@ -15,11 +15,13 @@
 
 </td>
 <td>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%24+whoami;Sankar+S+%7C+Cloud+%26+AI+Engineer;AWS+SBGL+%40SNSCE;Databricks+Student+Fellow+%40Databricks;Ex+Intern+%40ServiceNow;%24+stack+--list;AWS+%7C+Azure+%7C+Terraform+%7C+Docker;%24+status;Building+Intelligent%2C+Scalable+Solutions;%24+aws+--certified;5x+AWS+Certified" alt="Terminal typing animation" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=8B5CF6&vCenter=true&width=460&height=40&lines=Hi+there!+%F0%9F%91%8B+I'm+Sankar;Cloud+%26+AI+Engineer+in+the+Making;Building+Intelligent%2C+Scalable+Solutions;5x+AWS+Certified+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+## I turn **ideas into serverless, AI-powered apps** on AWS ☁️
 
-I turn **ideas into serverless, AI-powered apps** on AWS. Final-year ECE student, **Databricks Student Fellow**, and the person who gets 100+ students through their first AWS certification. ☁️
-
+### Final-year ECE student · **Databricks Student Fellow** · Helping **100+ students** earn their first AWS certification
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sankarsaravanakumar2316@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://YOUR-PORTFOLIO-URL)
