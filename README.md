@@ -41,8 +41,6 @@
 
 </div>
 
----
-
 ## 💻 `Who Am I?`
 
 ```bash
@@ -55,8 +53,6 @@ building:    [AI DSA Recommender, SOP Proctored Exam Portal, Daily Tech Digest A
 exploring:   [Agentic AI, LLM Orchestration, MLOps, Cloud-Native DevOps]
 superpower:  Turning a rough idea into a deployed serverless app ⚡
 ```
-
----
 
 ## 🛠️ Tech Stack
 
