@@ -35,6 +35,7 @@
 <div align="center">
 
 ![AWS Certs](https://img.shields.io/badge/AWS_Certifications-5x-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Microsoft Certs](https://img.shields.io/badge/Microsoft_Certifications-5x-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Students](https://img.shields.io/badge/Students_Mentored-100%2B-8B5CF6?style=for-the-badge)
 ![Projects](https://img.shields.io/badge/Cloud_%26_AI_Projects-10%2B-06B6D4?style=for-the-badge)
 ![Fellow](https://img.shields.io/badge/Databricks-Student_Fellow-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
