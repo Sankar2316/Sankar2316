@@ -109,8 +109,6 @@ flowchart LR
 ![Agentic](https://img.shields.io/badge/Agentic_AI_Business_Solutions_Architect-Expert-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 ![SnowPro](https://img.shields.io/badge/SnowPro-Associate-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 ![Udacity](https://img.shields.io/badge/AWS_AI%2FML_Scholars-Nanodegree-02B3E4?style=flat-square&logo=udacity&logoColor=white)
-![Redhat](https://img.shields.io/badge/AWS_AI%2FML_Scholars-Nanodegree-02B3E4?style=flat-square&logo=udacity&logoColor=white)
-![Databricks](https://img.shields.io/badge/AWS_AI%2FML_Scholars-Nanodegree-02B3E4?style=flat-square&logo=udacity&logoColor=white)
 
 ## 🗺️ My Journey
 
