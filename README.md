@@ -68,16 +68,89 @@ superpower:  Turning a rough idea into a deployed serverless app ⚡
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Built with |
-| --- | --- | --- |
-| 🏛️ **GovEase** | Helps users discover government schemes they're eligible for, with AI-assisted recommendations | `Lambda` `API Gateway` `DynamoDB` `Bedrock` |
-| 🤖 **[AI DSA Recommender](https://github.com/Sankar2316?tab=repositories)** | Identifies weak DSA topics and recommends daily practice problems | `Bedrock` `Lambda` `DynamoDB` `S3` |
-| 📰 **[Daily Tech Digest Agent](https://github.com/Sankar2316/daily-tech-digest-agent)** | Serverless agent that fetches RSS, summarizes with AI and emails a daily digest | `EventBridge` `Lambda` `Bedrock` `SES` |
-| 📊 **[Smart Priority](https://github.com/Sankar2316/smart-priority)** | AI-powered task prioritization on a cloud-native stack | `Amplify` `Lambda` `DynamoDB` `Bedrock` |
-| 💰 **[Expense Sorter](https://github.com/Sankar2316?tab=repositories)** | Receipt processing and automatic expense categorization | `Textract` `Bedrock` `S3` |
-| 🧠 **[AI Resume Analyzer](https://github.com/Sankar2316?tab=repositories)** | Resume parsing, skill extraction and feedback | `Python` `Streamlit` `Snowflake` |
-| 🎮 **[Trivia MCP Server](https://github.com/Sankar2316/trivia-mcp-server)** | MCP server over Open Trivia DB with 4000+ questions | `TypeScript` `MCP SDK` |
-| 🎯 **[SOP Proctored Exam Portal](https://github.com/Sankar2316?tab=repositories)** | Secure online exam platform with AI-powered monitoring | `Node.js` `React` `AWS` |
+A collection of hands-on projects focused on **Cloud Computing, Generative AI, Serverless Architecture, and Intelligent Automation.**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>🏛️ GovEase</h3>
+<p>AI-powered platform that helps users discover government schemes based on their eligibility, with intelligent recommendations.</p>
+<strong>Tech Stack</strong><br/>
+<code>AWS Lambda</code> <code>API Gateway</code> <code>DynamoDB</code> <code>Amazon Bedrock</code>
+<br/><br/>
+<a href="https://github.com/Sankar2316/govease">View Repository →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🤖 AI DSA Recommender</h3>
+<p>Analyzes coding weaknesses across DSA topics and recommends personalized daily practice problems.</p>
+<strong>Tech Stack</strong><br/>
+<code>Amazon Bedrock</code> <code>Lambda</code> <code>DynamoDB</code> <code>S3</code>
+<br/><br/>
+<a href="https://github.com/Sankar2316?tab=repositories">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>📰 Daily Tech Digest Agent</h3>
+<p>A serverless AI agent that collects RSS feeds, generates intelligent summaries, and delivers daily email digests.</p>
+<strong>Tech Stack</strong><br/>
+<code>EventBridge</code> <code>Lambda</code> <code>Bedrock</code> <code>SES</code>
+<br/><br/>
+<a href="https://github.com/Sankar2316/daily-tech-digest-agent">View Repository →</a>
+</td>
+<td width="50%" valign="top">
+<h3>📊 Smart Priority</h3>
+<p>AI-powered task management application that intelligently analyzes and prioritizes tasks using a cloud-native architecture.</p>
+<strong>Tech Stack</strong><br/>
+<code>AWS Amplify</code> <code>Lambda</code> <code>DynamoDB</code> <code>Bedrock</code>
+<br/><br/>
+<a href="https://github.com/Sankar2316/smart-priority">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>💰 Expense Sorter</h3>
+<p>Automates receipt processing, extracts transaction details, and categorizes expenses using AI.</p>
+<strong>Tech Stack</strong><br/>
+<code>Amazon Textract</code> <code>Bedrock</code> <code>S3</code>
+<br/><br/>
+<a href="https://github.com/Sankar2316?tab=repositories">View Repository →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🧠 AI Resume Analyzer</h3>
+<p>Analyzes resumes, extracts relevant skills, and provides AI-assisted feedback for career improvement.</p>
+<strong>Tech Stack</strong><br/>
+<code>Python</code> <code>Streamlit</code> <code>Snowflake</code>
+<br/><br/>
+<a href="https://github.com/Sankar2316?tab=repositories">View Repository →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🎮 Trivia MCP Server</h3>
+<p>An MCP server integrating Open Trivia DB to provide access to 4,000+ trivia questions through AI-compatible tools.</p>
+<strong>Tech Stack</strong><br/>
+<code>TypeScript</code> <code>MCP SDK</code>
+<br/><br/>
+<a href="https://github.com/Sankar2316/trivia-mcp-server">View Repository →</a>
+</td>
+<td width="50%" valign="top">
+<h3>🎯 SOP Proctored Exam Portal</h3>
+<p>A secure online examination platform with AI-powered monitoring capabilities.</p>
+<strong>Tech Stack</strong><br/>
+<code>Node.js</code> <code>React</code> <code>AWS</code>
+<br/><br/>
+<a href="https://github.com/Sankar2316?tab=repositories">View Repository →</a>
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <b>Building | Experimenting | Innovating</b><br/>
+  <i>Turning ideas into practical Cloud & AI solutions.</i>
+</p>
 
 <sub>More on my [repositories page](https://github.com/Sankar2316?tab=repositories): URL Shortener, NASA APOD MCP Server, Pokémon MCP Server, WiFi People Monitoring, Landing Page Generator.</sub>
 
