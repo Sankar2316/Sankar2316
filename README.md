@@ -145,8 +145,6 @@ A collection of hands-on projects focused on **Cloud Computing, Generative AI, S
 </tr>
 </table>
 
----
-
 <p align="center">
   <b>Building | Experimenting | Innovating</b><br/>
   <i>Turning ideas into practical Cloud & AI solutions.</i>
