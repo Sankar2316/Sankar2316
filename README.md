@@ -202,17 +202,12 @@ timeline
 | 📋 **Student Placement Coordinator** | SNS College of Engineering | 2026 – Present |
 | 🤝 **Organizing Team Member** | AWS User Group Madurai | Active |
 
-## 📊 GitHub Stats
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sankar2316&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sankar2316&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=Sankar2316&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Sankar2316&theme=default&hide_border=true" width="65%" alt="GitHub Streak" />
 
 </div>
 
