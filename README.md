@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2500&pause=1000&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&height=50&lines=%24+whoami;Sankar+S+%7C+Cloud+%26+AI+Engineer;AWS+SBGL+%40SNSCE;Databricks+Student+Fellow+%40Databricks;Ex+Intern+%40ServiceNow;%24+stack+--list;AWS+%7C+Azure+%7C+Terraform+%7C+Docker;%24+status;Building+Intelligent%2C+Scalable+Solutions;%24+aws+--certified;5x+AWS+Certified" alt="Terminal typing animation" />
 </div>
 
-## I turn **ideas into serverless, AI-powered apps** on AWS ☁️
+## I turn **ideas into serverless, AI powered apps** on AWS ☁️
 
 ### Final-year ECE student · **Databricks Student Fellow** · Helping **100+ students** earn their first AWS certification
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN-ID)
@@ -160,7 +160,6 @@ flowchart LR
     B --> C["🧠 Bedrock<br/>summarize with AI"]
     C --> D["📧 SES<br/>email the digest"]
 ```
-
 ---
 
 ## 🏆 Certifications
